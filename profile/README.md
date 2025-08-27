@@ -27,6 +27,6 @@ The organization contains the following repositories:
 ## Contact
 For questions or collaboration inquiries:  
 **CSI 798 Research Group**  
-📧 [add your internal contact here]
+📧 [nmaynard@gmu.edu]
 
 
